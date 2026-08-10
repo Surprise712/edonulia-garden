@@ -1,0 +1,1 @@
+lidé, half-elfs, half-orcs

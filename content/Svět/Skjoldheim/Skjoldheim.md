@@ -1,0 +1,1 @@
+Obývají ho [[dragonborni]] a [[trpaslíci]]. Skjoldheim byl původně čistě [[trpaslíci|trpasličí]] město. [[trpaslíci|Trpaslíci]] kopali a kopali až našli město starověkých [[dragonborni|dragonbornů]]. Cryovar, the Frozen Sovereign.

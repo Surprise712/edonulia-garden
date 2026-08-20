@@ -1,4 +1,4 @@
-Races: halflings, loxodoms, minotaurs, tabaxis, firbolg
+Races: loxodoms, minotaurs, tabaxis, firbolg
 
 
 

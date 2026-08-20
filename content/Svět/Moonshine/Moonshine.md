@@ -1,30 +1,82 @@
-# Obecně
-- lidské [[království]] vedené elfy
-- jsou zde i jiné menšiny ale nevýznamné, většina [[lidé|lidi]], půl-elfové a pak [[elfové]]
+## Poloha
 
-## Vztahy s ostatními
-- [[Daelmor]] - mírová dohoda
-- [[Marin]] - obchodní aliance
-- [[Karak]] - neutrální
-- [[Východní aliance]] - obchodují skrz [[Duneshore]]
+- sousedí s [[Karak|Karakem]], [[Marin|Marinem]] a [[Daelmor|Daelmorem]]
+    
+- velká část království je pokryta [[Starstruck|lesem Starstruck]]
+    
+- hlavní město: [[Silvershire]]
+    
+- korunovační město: [[Balaris]]
+    
 
-# Města
- - [[Silvershire]] - hlavní město, královské sídlo
- - [[LiftWaile]] - centrum obchodu s [[Daelmor|Daelmorem]] a [[Marin|Marinem]]
- - [[Solhaven]] - 
- - [[Elunara]] - 
- - [[Purpur]] - 
- - [[Starfire]] - věhlasná [[hvězdná akademie kouzel]] a hodně rozsáhlý rybolov
- - [[Balaris]] - korunovační město
- - [[Ivelair]] - [[elfové|elfí]] město, velmi zbožné
- - [[Astrael]] - 
- - [[Caelith]] - 
+## Ekonomická situace
 
-# Náboženství
-- [[Starfound]]
+- důležitá obchodní země
+    
+- pozemní obchodní cesty vedou do [[Daelmor|Daelmoru]] a [[Marin|Marinu]]
+    
+- přes moře obchoduje s [[The Gilded Sands]]
+    
+- [[Ivelair]] je hlavním přístavem pro zahraniční obchod
+    
+- [[LiftWaile]] je významným bodem pro obchod s [[Marin |Marinem]] a [[Daelmor |Daelmorem]]
+    
 
-# Důležité NPC
-- [[Quarion Nailo II.]] - princ, budoucí král
-- [[Astralyn Moonrose]] - princezna, pravá následnice trůnu
-- [[Estoria Primrose Galatea]] - zesnulá královna
-- [[Aymon Magniste]] - královský [[artificer]]
+## Náboženská situace
+
+- dominantní náboženství: [[Starfound]]
+    
+- hlavní bohové:
+    
+    - Astrael
+        
+    - Caelith
+        
+    - Elunara
+        
+- každý z bohů má ve království vlastní vesnici
+    
+- náboženství má velký vliv na kulturu a každodenní život
+    
+
+## Důležitá místa
+
+- [[Silvershire]] – současné hlavní město
+    
+- [[Balaris]] – bývalé hlavní město, korunovační město
+    
+- [[Ivelair]] – významné přístavní město
+    
+- [[Starfire]] – město učenců
+    
+- [[LiftWaile]] – významné obchodní město
+    
+- [[Astrael]] – vesnice zasvěcená Astraelovi
+    
+- [[Caelith]] – vesnice zasvěcená Caelith
+    
+- [[Elunara]] – vesnice zasvěcená Elunaře
+    
+- [[Purpur]] – nové obchodní sídlo
+    
+- [[Solhaven]] – městečko mezi [[Starfire]] a [[Silvershire]]
+    
+- [[Starstruck]] – tajemný les pokrývající velkou část království
+    
+
+## Politická situace
+
+- [[Moonshine]] a [[Daelmor]] mají mírovou smlouvu
+    
+- obchod mezi královstvími probíhá po pozemních cestách
+    
+- [[Karak]] má historické vztahy s [[Moonshine]]
+    
+- [[Marin]] je důležitým obchodním partnerem
+    
+
+## Erb
+
+- královský erb se skládá z hvězdy obklopené stříbrným měsícem
+    
+- barvy: stříbrná, fialová a tmavě modrá

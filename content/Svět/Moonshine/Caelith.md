@@ -15,11 +15,11 @@
     
 - okolní půda je velmi úrodná
     
-- velká část úrody putuje do [[Ivelair]], [[Balaris]] a [[Silvershire]]
+- velká část úrody putuje do [[Svět/Moonshine/Ivelair|Ivelair]], [[Svět/Moonshine/Balaris|Balaris]] a [[Svět/Moonshine/Silvershire|Silvershire]]
     
 - nachází se zde několik malých farem
     
-- místní rybáři využívají řeku protékající [[Starstruck|lesem Starstruck]]
+- místní rybáři využívají řeku protékající [[Svět/Moonshine/Starstruck|lesem Starstruck]]
     
 - nachází se zde hospoda [[U Hvězdného Kotlíku]]
     
@@ -30,7 +30,7 @@
     
 - ve středu vesnice stojí chrám Caelith
     
-- [[Starfound]] je součástí každodenního života
+- [[Náboženství/Starfound|Starfound]] je součástí každodenního života
     
 - každý rok se zde slaví Týden hojnosti
     
@@ -61,6 +61,6 @@
 
 - vesnice leží přibližně uprostřed cesty mezi [[Balaris]] a [[Ivelair]]
     
-- nachází se mezi [[Informace (Fogarden)|Fogarden]] a [[Starstruck|lesem Starstruck]]
+- nachází se mezi [[Fogarden - Mog'mor|Fogarden]] a [[Starstruck|lesem Starstruck]]
     
 - místní tvrdí, že plodiny zde rostou lépe než kdekoliv jinde v [[Moonshine]]

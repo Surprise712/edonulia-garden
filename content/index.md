@@ -5,116 +5,103 @@ tags:
 ---
 # Chaosbringers of Edonulia
 
-> [!quote]  
-> _The world is vast. The stories are endless._
-> 
-> _And somehow, you've decided to make it worse._
-
-Welcome to **Edonulia** — a world of kingdoms, ancient ruins, forgotten gods, and places where absolutely nothing suspicious is happening.
-
-Probably.
-
-
+Vítej v **Edonulii** — ve světě monarchií a republik, starověkých trosek a nových objevů a tajuplných míst, kde se určitě nic podivného neděje. ;)
 
 ---
 
-> [!info] 🗺️ Explore the World  
-> **Edonulia is more than a map.**
+> [!info] 🗺️ Objevuj svět 
+> **Edonulia je víc než jenom mapa.**
 > 
-> Discover the nations, cities, landmarks and forgotten places scattered across the world.
+> Objevuj národy, města, zajímavé místa a místa, které byly dávno zapomenuty.
 
-### 🏰 States
+### 🏰 Státy
 
-> [!abstract] [[Svět/Marin/Marin|Marin]]  
-> A human city built upon the shores of a great lake.
+> [!abstract] [[Marin|Marin]]  
+> Lidské město postavěno na jezeře s pestrou historií s okolními státy.
 
-> [!abstract] [[Svět/Moonshine/Moonshine|Moonshine]]  
-> A kingdom of elves and humans, home to Silvershire and the Starfound faith.
+> [!abstract] [[Moonshine|Moonshine]]  
+> Království elfů a lidí, s mírumilovnými mezinárodními vztahy.
 
-> [!abstract] [[Svět/Daelmor/Daelmor|Daelmor]]  
-> An orcish constitutional monarchy surrounded by uneasy neighbours.
+> [!abstract] [[Daelmor|Daelmor]]  
+> Konstituční monarchie orků omezena neustálou válkou.
 
-> [!abstract] [[Svět/Skjoldheim/Skjoldheim|Skjoldheim]]  
-> A northern realm beneath towering mountains.
+> [!abstract] [[Skjoldheim|Skjoldheim]]  
+> Skalní pevnost tvrzena severskou zimou. 
 
-> [!abstract] [[Svět/The Gilded Sands/The Gilded Sands|The Gilded Sands]]  
-> A desert nation shaped by sand, trade and ancient secrets.
+> [!abstract] [[The Gilded Sands|The Gilded Sands]]  
+> Skupina pouštních osídlení založených převážně na obchodu se vzácným zbožím.
 
-> [!abstract] [[Svět/Eshvalia/Eshvalia|Eshvalia]]  
+> [!abstract] [[Eshvalia|Eshvalia]]  
 > A land whose stories are still waiting to be told.
 
-> [!abstract] [[Svět/Karakské pohoří/Karak/Karak|Karak]]  
-> A dwarven mountain city hidden within the Karak mountain range.
+> [!abstract] [[Karak|Karak]]  
+> Trpasličí město schované hluboko v horách. Dříve velmi aktivní v okolí, dnes uzavřené do sebe.
 
 ---
 
-### 🗿 Landmarks
+### 🏛️ Dominanty světa
 
-> [!note] [[Svět/Barakské pohoří/Barak/Barak|Barak]]  
-> The ruins of an ancient dwarven city.
+> [!note] [[Barak|Barak]]  
+> Starověké zříceniny trpasličího město.
 
-> [!note] [[Svět/Moonshine/les Starstruck/Starstruck|Starstruck]]  
-> A mysterious forest within Moonshine.
+> [!note] [[Starstruck|Starstruck]]  
+> Fialový les plný tajemství.
 
-> [!note] [[Svět/Fogarden (Mog'mor)/Informace (Fogarden)|Fogarden]]  
-> A place known by another name: Mog'mor.
+> [!note] [[Fogarden - Mog'mor|Fogarden/Mog'mor]]  
+> Obrovská bažina se zapomenutou historií.
 
-> [!note] [[Svět/Dreadcrown/Dreadcrown|Dreadcrown]]  
-> A location whose secrets have yet to be uncovered.
-
----
-
-> [!info] 📜 Lore & History  
-> _Every place has a history. Every god has a story. Every story has someone who got themselves involved._
-> 
-> Explore the lore of Edonulia.
-
-> [!tip] ⭐ Gods & Religion  
-> Discover the gods worshipped across Edonulia and the beliefs that shape its people.
-> 
-> [[Starfound|Starfound]]
-
-> [!tip] 📅 Calendar & Holidays  
-> Learn about the calendar, festivals and traditions celebrated throughout the world.
-> 
-> [[Calendar|Calendar]]
-
-> [!tip] ⚔️ Factions  
-> Kingdoms, organizations, armies and other groups that shape the political landscape.
-> 
-> [[Factions|Factions]]
+> [!note] [[Dreadcrown|Dreadcrown]]  
+> Aktivní sopka, říká se, že vede do pekla.
 
 ---
 
-> [!warning] ⚔️ The Adventure  
-> **The world doesn't stop while the heroes are away.**
+> [!info] 📜 Příběhy a historie  
+> _Každé místo má historii. Každá osoba má příběh._
 > 
-> Follow the events of the campaign, meet the people involved, and discover what awaits around the next corner.
+> *Zde přibývají kousky příběhu a historie, které se objeví během sessionů.*
+> >Zatím prázdno
 
-> [!example] 👥 Player Characters  
-> Meet the people reckless enough to call themselves adventurers.
+> [!tip] ⭐ Bohové a náboženství  
+> *Každý v něco věří. Někteří v bohy, někteří v štěstí. Já věřím, že jednou se sejdeme všichni na jeden session :3*
 > 
-> [[Player Characters|Meet the Party]]
+> **Moonshine**
+>> [[Starfound|Starfound]]
+>
+> **Daelmor**
+> > TBA
+
+> [!tip] ❔Ostatní  
+> *Tady budu dávat důležité odkazy na věci, které nevím kam zařadit.*
+> [[Východní aliance]]
+
+
+
+
+---
+
+> [!example] 👥 Hráčské postavy  
+> *Všechno potřebné o hrdinech tohoto příběhu.*
+> 
+> > Froll
+> 
+> > Sormila Zvišněspadla
+> 
+> > Kael Thornaxe
+> 
+> > Violet of the Stars
+> 
+> > "Bell" Eduard Mischief
+> 
+> > Globodar
+> 
 
 > [!example] 🧑‍🤝‍🧑 NPCs  
-> Merchants, kings, villains, bartenders, mysterious strangers...
+> *Všechny známé tváře na dosah.*
 > 
-> [[NPCs|Meet the People]]
-
-> [!danger] 📜 Quests  
-> Some quests are heroic.
-> 
-> Some are profitable.
-> 
-> Some should probably have been left alone.
-> 
-> [[Quests|View Quests]]
-
+> > Zatím nic
 ---
 
-> [!quote]  
-> _"You wanted adventure._
+> [!info] The END
+> *Došel jsi na konec, dále už nic nenajdeš :)*
 > 
-> _You got it."_
-> 
-> — Someone, probably
+> Pokud jsi něco hledal a nenašel to, tak mi napiš

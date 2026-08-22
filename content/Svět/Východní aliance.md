@@ -1,1 +1,0 @@
-Aliance východních států: [[Eshvalia]], [[Skjoldheim]] a [[The Gilded Sands]]. Tato aliance byla uzavřena na bázi společného nepřátelství vůči [[Daelmor|Daelmoru]].

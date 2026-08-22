@@ -2,7 +2,7 @@
 
 - převážně [[lidé]] a [[elfové]]
     
-- ve městě žijí také obchodníci a návštěvníci z ostatních částí [[Moonshine]]
+- ve městě žijí také obchodníci a návštěvníci z ostatních částí [[Svět/Moonshine/Moonshine|Moonshine]]
     
 
 ## Ekonomická situace
@@ -18,7 +18,7 @@
 
 ## Náboženská situace
 
-- [[Starfound]] má ve městě silné postavení
+- [[Náboženství/Starfound|Starfound]] má ve městě silné postavení
     
 - nachází se zde chrámy všech tří hlavních bohů
     
@@ -33,7 +33,7 @@
     
 - několik obchodních cechů
     
-- [[Starfound]] kněžstvo
+- [[Náboženství/Starfound|Starfound]] kněžstvo
     
 
 ## Slavnosti/Svátky
@@ -49,12 +49,12 @@
 
 ## Zajímavosti
 
-- bývalé hlavní město [[Moonshine]]
+- bývalé hlavní město [[Svět/Moonshine/Moonshine|Moonshine]]
     
 - nachází se přibližně ve středu království
     
 - korunovace nového panovníka se stále koná v Balaris
     
-- město má hluboké spojení s [[Starstruck|lesem Starstruck]]
+- město má hluboké spojení s [[Svět/Moonshine/Starstruck|lesem Starstruck]]
     
 - v okolí města bylo nalezeno mnoho podivných předmětů pocházejících z lesa

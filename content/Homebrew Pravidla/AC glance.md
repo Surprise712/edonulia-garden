@@ -1,0 +1,1 @@
+Když hod trefí AC přesně, tak target dostává jenom půl damage.
